@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of British Columbia Vancouver</a>. X221, ICICS, BC V6T 1Z4, +1-604-618-2645.
+subtitle: <a href='#'>University of British Columbia Vancouver</a>. X221, ICICS, BC V6T 1Z4, +1-604-652-3933.
 
 profile:
   align: right
@@ -17,17 +17,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a 5th year Ph.D. candidate at [Computational Multiphysics Laboratory](https://cml.mech.ubc.ca/) at The University of British Columbia Vancouver. I am working under the supervision of [Prof. Rajeev Jaiman](https://mech.ubc.ca/rajeev-jaiman/) towards completing my dissertation on **physics-based machine learning reduced-order models for improving long-time-horizon wave propagation predictions**. My research focuses on developing **deep learning-based reduced-order models and leveraging machine learning frameworks to address complex challenges in fluid dynamics and underwater noise propagation.**
+I am a first-year Ph.D. student at the [Industrial and Biological Multiphysics Laboratory](https://ibml.mech.ubc.ca/) at the University of British Columbia, Vancouver, specializing in the field of complex fluid dynamics. Under the guidance of [Prof. Dana Grecov](https://mech.ubc.ca/dana-grecov/), my research focuses on **Numerical Simulations and Machine Learning-Driven Insights into Liquid Crystal Dynamics and Topological Defects**.
 
-In recent years, I’ve had the privilege of collaborating on projects that combine scientific computing methods with advanced deep learning principles, including:
+My work aims to push the boundaries of current computational methods by integrating cutting-edge numerical simulations with machine learning techniques to explore the dynamic behaviors of liquid crystalline materials. I am particularly interested in understanding how topological defects influence the macroscopic properties of nematic and cholesteric liquid crystals, and how these defects can be controlled or manipulated for applications in soft matter physics and material design.
 
-1. Building a convolutional autoencoder and sequence-to-sequence attention network for long-time-horizon wave propagation predictions, published in Physics of Fluids.
-2. Developing a space-time reduced order model that combines 3D convolution kernels to efficiently predict fluid flow dynamics, published in Physics of Fluids and **selected as Editor's pick.**
-3. Introducing a novel **finite element-inspired hyper graph neural network**, which enables structured, high-fidelity representation of physical domains, enhancing model robustness and predictive accuracy for complex systems, published in **Journal of Computational Physics**.
-4. Developing a conditional convolutional neural network for real-time transmission loss prediction in varying oceanic environments, with a continual learning approach to account for changing bathymetry.
-5. Applying parameterized reduced-order modeling techniques to predict distortion in metal 3D printing, which led to a publication in the NeurIPS Machine Learning for Physical Sciences Workshop.
-6. Building an optimization framework which reduces the impact of shipping noise on marine mammals, published in Ocean Engineering journal.
+At the core of my research is the development of new computational frameworks that allow for efficient simulation of liquid crystal behavior in complex geometries. These models incorporate both the physical laws governing the systems and the data-driven insights provided by machine learning, enabling a deeper understanding of the non-linear dynamics at play. By combining these approaches, I aim to create predictive tools that can inform the design of novel materials with tunable properties for use in displays, sensors, and other advanced technologies.
 
-Outside the lab, I’m passionate about the outdoors. Whether hiking up scenic trails, climbing rock faces, skiing down snowy slopes, or swimming in open waters, I find balance and inspiration in nature. These activities allow me to approach my work with a fresh perspective, fostering a problem-solving mindset that’s essential in research.
+Outside of my research, I am deeply committed to advancing the field of computational mechanics and contributing to the growing intersection of numerical methods, soft matter physics, and artificial intelligence. My work not only explores fundamental questions in liquid crystal dynamics but also seeks to develop tools that will have broader applications in complex fluid dynamics, biomedical engineering, and materials science.
 
-As I look forward to completing my Ph.D. by April, 2025, I am **actively exploring opportunities** where I can apply my skills and insights toward impactful projects. I’m particularly interested in roles that allow me to integrate computational science and machine learning in environmental and engineering applications.
